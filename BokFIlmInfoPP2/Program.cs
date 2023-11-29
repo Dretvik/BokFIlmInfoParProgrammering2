@@ -16,7 +16,7 @@
                 else if (choice == "3")
                 {
                     Console.WriteLine("Exiting the program");
-                    break; // Exit the loop and end the program
+                    break;
                 }
                 else
                 {
